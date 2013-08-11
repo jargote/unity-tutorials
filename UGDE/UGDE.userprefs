@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Island Mini Game/Scripts/TriggerZone.js">
+    <Files>
+      <File FileName="Assets/Island Mini Game/Scripts/CoconutThrower.js" Line="4" Column="39" />
+      <File FileName="Assets/Island Mini Game/Scripts/ThrowTrigger.js" Line="8" Column="92" />
+      <File FileName="Assets/Island Mini Game/Scripts/TidyObject.js" Line="4" Column="34" />
+      <File FileName="Assets/Island Mini Game/Scripts/TargetCollision.js" Line="35" Column="22" />
+      <File FileName="Assets/Island Mini Game/Scripts/CoconutWin.js" Line="16" Column="55" />
+      <File FileName="Assets/Island Mini Game/Scripts/TextHints.js" Line="2" Column="9" />
+      <File FileName="Assets/Island Mini Game/Scripts/PowerGUIManager.js" Line="10" Column="2" />
+      <File FileName="Assets/Island Mini Game/Scripts/TriggerZone.js" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Island Mini Game" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="TriggerZone.js" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Wall of Bricks - Mini Game" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
